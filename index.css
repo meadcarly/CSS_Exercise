@@ -2,6 +2,7 @@
     color: orange;
     text-decoration: none;
 }
+
 main {
     margin: 24px auto 24px auto;  /*top, right, bottom, left*/
     max-width: 600px;
@@ -9,4 +10,11 @@ main {
     margin-bottom: 24px;
     margin-left: auto;
     margin-right: auto;*/
+}
+
+section {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border: 3px dotted orange;
+    padding: 16px;
 }
